@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Brother, Gamer and Friend.
 
-### My 2021 ToDo list:
+### My 2022 ToDo list:
 - Finish the Udemy Web Development Bootcamp course
 - Learning Js, React, Node
 - Setup my portfolio
