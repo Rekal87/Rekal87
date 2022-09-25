@@ -46,3 +46,5 @@ I'm using HTML, CSS, and JavaScript to make websites. 👨🏾‍💻
 ### ⚡ Fun fact
 
 I'm a huge Marvel fan
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rekal87&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
