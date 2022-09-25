@@ -27,7 +27,7 @@ I'm using HTML, CSS, and JavaScript to make websites. 👨🏾‍💻
 
 ### 🤪 My hobbies
 
-- Coding, watching anime & playing some video games
+- Coding, watching anime, playing some video games & building websites
 
 ### 📫 How to reach me
 
